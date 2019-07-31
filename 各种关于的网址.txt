@@ -1,0 +1,11 @@
+如何使用http-server打开本地服务器
+https://www.npmjs.com/package/http-server
+
+Ajax及封装Ajax详解
+https://blog.csdn.net/c__dreamer/article/details/80456565
+
+你真的会使用XMLHttpRequest吗？
+https://segmentfault.com/a/1190000004322487
+
+线上mock
+http://easy-mock.com/
